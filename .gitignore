@@ -21747,3 +21747,6 @@ CoreX_Test/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee62
 CoreX_Test/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
 CoreX_Test/CoreX_Test.sln
 CoreX_Test/.vsconfig
+CoreX_Test/Library/
+CoreX_Test/Logs/
+CoreX_Test/Temp/
